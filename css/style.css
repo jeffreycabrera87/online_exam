@@ -1,0 +1,112 @@
+#emailHtml{
+   color: red;
+}
+
+#confirmPass{
+   color:red;
+}
+
+#email, #password,
+#firstname, #lastname,
+#email_input, #password1,
+#confirm{
+   height: 40px;
+   width: 270px;
+}
+
+.btn{
+   height: 40px;
+
+}
+
+#header{
+   background-color: black;
+   height: 40px;
+   } 
+
+#line{
+   line-height: 50px;
+}
+
+#file{
+   margin-left: 42px;
+   padding: 5px;
+}
+
+#formBorder{
+	border-width: 2px;
+	border-radius: 10px;
+	border: 1px;
+}
+
+#registerForm, #login{
+   position: absolute;
+   top: 120px;
+   left: 450px;
+   border-style: solid;
+   border-color: black;
+   border-radius: 10px;
+   width: 400px;
+   height: auto;
+   text-align: center;
+   padding: 20px;
+}
+
+#register2{
+   margin-right: 40px;
+}
+
+#registerHeader, #loginHeader{
+   position: absolute;
+   top: 40px;
+   left: 510px;
+}
+
+#signIn{
+   position: absolute;
+   top:10px;
+   right: 40px;
+}
+
+#loginButton{
+   position: relative;
+   top: 10px;
+   left: 103px;
+}
+
+#welcome{
+   position: absolute;
+   top: 120px;
+   left: 230px;
+   border-style: solid;
+   border-color: black;
+   border-radius: 10px;
+   width: 800px;
+   height: 400px;
+   text-align: center;
+}
+
+p{
+   font-size: 24px;
+   font-weight: crisp;
+   font-style: bold;
+   font-family: arial;
+}
+
+#start{
+   width: 100px;
+   height: 40px;
+   border-radius: 10px;
+   font-family: verdana;
+   color: red;
+   position: relative;
+   top: 90px;
+   cursor: pointer;
+
+}
+
+#welcomeNote{
+   position: relative;
+   top: 40px;
+
+}
